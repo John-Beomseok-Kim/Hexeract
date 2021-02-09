@@ -9,7 +9,7 @@ Due to the design being motion platform, components like the motherboard, build 
 
 ---
 # DISCLAIMER
-This project is yet INCOMPLEAT for the mean time
+This project is in development
 
 ---
 # Recomended Print Settings

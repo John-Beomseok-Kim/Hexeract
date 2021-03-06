@@ -39,7 +39,7 @@ Due to the design being motion platform, components like the motherboard, LED li
 ## Penteract Calculator (In Wroking Progress...)
 If one wants to have difftent print volume
 - Recomended X-axis "Print Voulume" : 250mm ≤ (x axis "Print Voulume) ≤ 450mm
-- Havy modfifiaction will be needed to the Z axis if one wants to go with larger print volume then standard.
+- Havy modfifiaction will be needed to the Z axis, if one wants to go with a larger print volume then standard.
 
 ### How to use the calculator (In Wroking Progress...):
 [![](http://img.youtube.com/vi/7c40CwL1CL%M%/0.jpg)](http://www.youtube.com/watch?v=7c40CwL1CL%M% "How to Use the Calculator")

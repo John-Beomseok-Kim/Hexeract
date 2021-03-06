@@ -1,6 +1,6 @@
 # Penteract
 Open-source Core-XY motion platform mainly for "large" print volume desktop 3D printer
-![Penteract](https://user)
+![PENTERACT__Motion_ _Extrusion Platform v81](https://user-images.githubusercontent.com/76419272/110213799-ed12af00-7ee4-11eb-9770-255e31e7c31a.png)
 
 ---
 # Introduction

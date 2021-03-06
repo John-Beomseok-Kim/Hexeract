@@ -1,7 +1,6 @@
 # Penteract
 Open-source Core-xy motion platform mainly for "large" print volume desktop 3D printer
 
-
 ---
 # Introduction
 The Penteract is a open-source Core-xy motion platform with a ridgid main chassis using 3030 aluminum extrusions and light moving compoents constuted by 1515 aluminum extrusions.
@@ -9,11 +8,17 @@ The Penteract is a open-source Core-xy motion platform with a ridgid main chassi
 Due to the design being motion platform, components like the motherboard, LED lights, HEPA filters, etc. are for the individual builder to determine. in addtion, the "Penteract calculator" will output the length of components to accommodate various sizes requrents.
 
 ---
+# Community: [Discord](https://discord.gg/vaqBpfTSvp)
+- The announcement will explain alot of the incompeletness of this project
+- Desginer will be there on the weekends answering questions
+
+---
 # DISCLAIMER: Not for the faint of heart
 - This project is in development
-- The cost of building will prabably be higher then you think
 - Current documentations are barebones to put it nicely
-- The rate of deveolpent and updates will be uncertain util the first quoter of 2022 (refer to the announcement in the Discord sarver)
+- The their is a high posiblity that the firmware will not be  
+- The rate of deveolpent and updates will be uncertain until the first quarter of 2022 (refer to the announcement in the Discord sarver)
+- The cost of building will prabably be higher then you think
 - The allowable tolrace of the printed parts are tight
 
 ---
@@ -36,14 +41,14 @@ If one wants to have difftent print volume
 - Recomended X-axis "Print Voulume" : 250mm ≤ (x axis "Print Voulume) ≤ 450mm
 - Havy modfifiaction will be needed to the Z axis if one wants to go with larger print volume then standard.
 
-## How to use the calculator (Rough Quality):
+### How to use the calculator (Rough Quality):
 [![](http://img.youtube.com/vi/7c40CwL1CLM/0.jpg)](http://www.youtube.com/watch?v=7c40CwL1CLM "How to Use the Calculator")
 
 ---
-# Bill of Materials Recommendations (INCOMPLEAT)
+# Bill of Material Recommendations (INCOMPLEAT)
 This is not a comprehensive list of Materials but a list of recomendations
 
-## Bolts
+## Bolts: the M3 Socket head bolt length and quantity update will be uncertain until the first quarter of 2022
 Size | Length | Type | Quantity
 --- | --- | --- | --- |
 M6 | 15mm | Button Head | 62

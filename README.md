@@ -45,12 +45,18 @@ If one wants to have difftent print volume
 [![](http://img.youtube.com/vi/7c40CwL1CL%M%/0.jpg)](http://www.youtube.com/watch?v=7c40CwL1CL%M% "How to Use the Calculator")
 
 ---
+# [CAD File Link](https://a360.co/33fj55M)
+
+---
 # Bill of Material Recommendations
 This is not a comprehensive list of Materials but a list of recomendations
 
 ## Bolts: the M3 Socket head bolt length and quantity update will be uncertain until the first quarter of 2022
 Size | Length | Type | Quantity
 --- | --- | --- | --- |
+M8 | 15mm | Black Oxide Steel Finish / Button Head | 8
+M8 | 25mm | Black Oxide Steel Finish / Button Head | 16
+M8 | 45mm | Black Oxide Steel Finish / Socket Head | 4
 M6 | 15mm | Button Head | 62
 M5 | 45mm | Hex Head | 2
 M3 | "n"mm | Socket Head | "n" 
@@ -72,16 +78,23 @@ Size | Type | Quantity
 --- | --- | --- |
 M3 | Stainless Steel / Standard size | 20(Recomended)
 
-## Electrical Components
+## Electrical Components: If given the chioce, 24v is hightly recommended
 Components | Recommended Product | Spcifications | Quantity
 --- | --- | --- | --- |
-Hotend | E3D V6 | 1.75mm / 24V(Recommended) / Direct Drive | 1
+Hotend | E3D V6 | 1.75mm / Direct Drive | 1
 Endstop | Omron SS-01-E | --- | 2
 Z-probe | BL touch v3 | --- | 1
-Stepper Motor (XY Axis) | --- | NEMA 17 / 24V(Recommended) | 2
+Stepper Motor (XY Axis) | --- | NEMA 17 | 2
 Stepper Motor (Extruder) | (the motor will come with the Orbiter v1.5) | --- | 1
 Stepper Motor (Z Axis) | E3D LEADSCREW MOTOR WITH POM NUT (dos not nessasarly have to be this one. ONLY for CAD file spcification build) | NEMA 17 / Body Length: < 30mm / Integrated Lead Screw Length: (in Calculator) | 2
 Print Bed | E3D High Temperature Heated Bed | 1
+
+## Notes on Wiring
+**DISCLAIMER: Recommendations from a nonexpert in electornics. These recomendations will not be responsible if accidents happen**
+- Mains voltage could kill a person so, please be careful when wiring mains wires
+- Crimp electrical connections where possible.
+- For mains wires, 12 AWG copper wire is recommended
+- For 24v wires, 22 AWG fine strand wire is recommended
 
 ## Mechanical Components
 Components | Spcifications | Misumi Search Term | Quantity
@@ -111,7 +124,19 @@ Components | Spcifications | Misumi Search Term | Quantity
 3030 Aluminum Extrusion for liner rail Mouting | Lengths: (in Calculator or CAD) | HFSP6-3030 | 2
 1515 Aluminum Extrusion | Lengths: (in Calculator or CAD) | HFS3-1515 | (in Calculator or CAD)
 
-# Assembly Guid 
-- All the Brakets that attches to the 3030 aluminum extrusions will use **15mm button head M6 screws**
-- All the Brakets that attches to the 3030 aluminum extrusions will use **8mm socket head M3 screws**
-- A rubber, wooden, or plasic hammer could be necessary to tap in the press fit components
+# Assembly Guide
+- Insart the **45mm hex head M5 screw** FIRST when prtting in the machanical components with the "P_Belt_Tensioner"
+- All the Brakets that attaches to the 3030 aluminum extrusions will use **15mm button head M6 screws** to attach
+- All the Brakets that attaches to the 1515 aluminum extrusions will use **8mm socket head M3 screws** to attach
+- A rubber, wooden, or plasic mallet/hammer could be necessary to tap in the press fit components
+
+## Recommended Tools: Qualtiy will matter to an extent
+- 2.5mm ball-end hex screw dirver
+- 4 hex allen wrench with ball-end
+- 5 and 6 mm hex allen wrench
+- Nipper
+- Rubber mallet
+- Ferrule Crimpers
+- Engineer PA-09
+- Engineer PA-05
+- PTFE based synthetic grease

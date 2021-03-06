@@ -41,7 +41,7 @@ If one wants to have difftent print volume
 
 ---
 # Bill of Materials Recommendations (INCOMPLEAT)
-This is not a comprehasive list of Materials but a list of recomendations
+This is not a comprehensive list of Materials but a list of recomendations
 
 ## Bolts
 Size | Length | Type | Quantity

@@ -87,7 +87,7 @@ Z-probe | BL touch v3 | --- | 1
 Stepper Motor (XY Axis) | --- | NEMA 17 | 2
 Stepper Motor (Extruder) | (the motor will come with the Orbiter v1.5) | --- | 1
 Stepper Motor (Z Axis) | E3D LEADSCREW MOTOR WITH POM NUT (dos not nessasarly have to be this one. ONLY for CAD file spcification build) | NEMA 17 / Body Length: < 30mm / Integrated Lead Screw Length: (in Calculator) | 2
-Print Bed | E3D High Temperature Heated Bed | 1
+Print Bed | E3D High Temperature Heated Bed | --- | 1
 
 ## Notes on Wiring
 **DISCLAIMER: Recommendations from a nonexpert in electornics. These recomendations will not be responsible if accidents happen**

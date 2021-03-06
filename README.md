@@ -107,6 +107,11 @@ Bed Spring | OD: 6mm / ID: >3mm / Length: 15mm | SWF6-15(Similar spec spring wil
 ## Frame: The 3D printed parts of the Penteract are spcifcly designed to use Misumi aluminum 3030 extrusions (not the case for 1515 extrusions)
 Components | Spcifications | Misumi Search Term | Quantity
 --- | --- | --- | --- |
-30x30  Aluminum Extrusions | Lengths: (in Calculator or CAD) | "GFS6-3030"(Standard) or "GNFS6-3030"(Economy) (additonal machining will be requred, Refer to the CAD) | (in Calculator or CAD)
-30x30 Aluminum Extrusion for liner rail Mouting | Lengths: (in Calculator or CAD) | HFSP6-3030 | 2
-15x15 Aluminum Extrusion | Lengths: (in Calculator or CAD) | HFS3-1515 | (in Calculator or CAD)
+3030 Aluminum Extrusions | Lengths: (in Calculator or CAD) | "GFS6-3030"(Standard) or "GNFS6-3030"(Economy) (additonal machining will be requred, Refer to the CAD) | (in Calculator or CAD)
+3030 Aluminum Extrusion for liner rail Mouting | Lengths: (in Calculator or CAD) | HFSP6-3030 | 2
+1515 Aluminum Extrusion | Lengths: (in Calculator or CAD) | HFS3-1515 | (in Calculator or CAD)
+
+# Assembly Guid 
+- All the Brakets that attches to the 3030 aluminum extrusions will use **15mm button head M6 screws**
+- All the Brakets that attches to the 3030 aluminum extrusions will use **8mm socket head M3 screws**
+- A rubber, wooden, or plasic hammer could be necessary to tap in the press fit components

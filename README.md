@@ -1,25 +1,25 @@
 # Penteract
-Open-source Core-xy motion platform mainly for "large" print volume desktop 3D printer
+Open-source Core-XY motion platform mainly for "large" print volume desktop 3D printer
 
 ---
 # Introduction
-The Penteract is a open-source Core-xy motion platform with a ridgid main chassis using 3030 aluminum extrusions and light moving compoents constuted by 1515 aluminum extrusions.
+The Penteract is an open-source Core-XY motion platform with a rigid main chassis using 3030 aluminum extrusions and moving components constructed by 1515 aluminum extrusions.
 
-Due to the design being motion platform, components like the motherboard, LED lights, HEPA filters, etc. are for the individual builder to determine. in addtion, the "Penteract calculator" will output the length of components to accommodate various sizes requrents.
-
----
-# Community: [Discord](https://discord.gg/vaqBpfTSvp)
-- The announcement will explain alot of the incompeletness of this project
-- Desginer will be there on the weekends answering questions
+The design is a motion platform, components like; motherboard, LED lights, HEPA filters, and more are for the individual builder to determine. Also, the "Penteract calculator" will output the length of components to accommodate various size requirements.
 
 ---
 # DISCLAIMER: Not for the faint of heart
-- The cost of building will prabably be higher then you think
-- The allowable tolrace of the printed parts are tight
-## The rate of deveolpent and updates will be uncertain until the first quarter of 2022 (refer to the announcement in the Discord sarver)
+- The cost of building will probably be higher than you think
+- The allowable tolerance of the printed parts are tight
+## The rate of development and updates will be uncertain until the first quarter of 2022 (refer to the announcement in the Discord server)
 - This project is in development
-- The current "Bill of Materials" and "Assembly Guid" are barebones to put it nicely
-- The "Calculator" is imcomplete
+- The current "Bill of Materials" and "Assembly Guide" are barebones
+- The "Calculator" is incomplete
+
+---
+# Community: [Discord](https://discord.gg/vaqBpfTSvp)
+- The announcement will explain a lot of the incompleteness of this project
+- Designer will be there on the weekends answering questions
 
 ---
 # Recomended Print Settings for 3D Printed Parts
@@ -36,12 +36,14 @@ Due to the design being motion platform, components like the motherboard, LED li
 
 ---
 # Notes on Modificaiton
-## Penteract Calculator (In Wroking Progress...)
-If one wants to have difftent print volume
-- Recomended X-axis "Print Voulume" : 250mm ≤ (x axis "Print Voulume) ≤ 450mm
-- Havy modfifiaction will be needed to the Z axis, if one wants to go with a larger print volume then standard.
+- fads
 
-### How to use the calculator (In Wroking Progress...):
+## Penteract Calculator (In Working Progress)
+If one wants to have a different print volume
+- Recommended X-axis "Print Volume" : 250mm ≤ (x-axis "Print Volume") ≤ 450mm
+- Significant modification will be necessary to the Z-axis if one wants to go with a larger print volume than standard.
+
+### How to use the calculator (In Working Progress):
 [![](http://img.youtube.com/vi/7c40CwL1CL%M%/0.jpg)](http://www.youtube.com/watch?v=7c40CwL1CL%M% "How to Use the Calculator")
 
 ---
@@ -49,7 +51,7 @@ If one wants to have difftent print volume
 
 ---
 # Bill of Material Recommendations
-This is not a comprehensive list of Materials but a list of recomendations
+*not a comprehensive list of materials but a list of recommendations
 
 ## Bolts: the M3 Socket head bolt length and quantity update will be uncertain until the first quarter of 2022
 Size | Length | Type | Quantity
@@ -67,16 +69,16 @@ Size | Type | Quantity
 --- | --- | --- |
 M6 | for 30x30mm Extrusions | 62
 M3 | for 30x30mm Extrusions | (total # of mounting holes in the MGN12H rails for the 30x30mm Extrusion) 
-M3 | for 15x15mm Extrusion | (Packet of more then 50 is recomended)
+M3 | for 15x15mm Extrusion | (Packet of more than 50 recommended)
 M3 | Standard Hex | 2
-M3 | Standard Hex | (Packet of more then 50 is recomended)
+M3 | Standard Hex | (Packet of more than 50 recommended)
 M3 | Length: ≥7mm / Hex | 4
 M2 | Standard Hex | 4
 
 ## Washers
 Size | Type | Quantity
 --- | --- | --- |
-M3 | Stainless Steel / Standard size | 20(Recomended)
+M3 | Stainless Steel / Standard size | 20(Recommended)
 
 ## Electrical Components: If given the chioce, 24v is hightly recommended
 Components | Recommended Product | Spcifications | Quantity
@@ -84,13 +86,14 @@ Components | Recommended Product | Spcifications | Quantity
 Hotend | E3D V6 | 1.75mm / Direct Drive | 1
 Endstop | Omron SS-01-E | --- | 2
 Z-probe | BL touch v3 | --- | 1
+Part cooling fan | --- | 5015 Blower fan | 1
 Stepper Motor (XY Axis) | --- | NEMA 17 | 2
 Stepper Motor (Extruder) | (the motor will come with the Orbiter v1.5) | --- | 1
-Stepper Motor (Z Axis) | E3D LEADSCREW MOTOR WITH POM NUT (dos not nessasarly have to be this one. ONLY for CAD file spcification build) | NEMA 17 / Body Length: < 30mm / Integrated Lead Screw Length: (in Calculator) | 2
-Print Bed | E3D High Temperature Heated Bed | --- | 1
+Stepper Motor (Z-Axis) | E3D LEADSCREW MOTOR WITH POM NUT (dos do not have to be this one. ONLY for CAD file specification build) | NEMA 17 / Body Length: < 30mm / Integrated Lead Screw Length: (in the calculator) | 2
+Print Bed | E3D High-Temperature Heated Bed | --- | 1
 
 ## Notes on Wiring
-**DISCLAIMER: Recommendations from a nonexpert in electornics. These recomendations will not be responsible if accidents happen**
+**DISCLAIMER: Recommendations from a nonexpert in electronics. These recommendations will not be responsible if accidents happen**
 - Mains voltage could kill a person so, please be careful when wiring mains wires
 - Crimp electrical connections where possible.
 - For mains wires, 12 AWG copper wire is recommended
@@ -125,18 +128,36 @@ Components | Spcifications | Misumi Search Term | Quantity
 1515 Aluminum Extrusion | Lengths: (in Calculator or CAD) | HFS3-1515 | (in Calculator or CAD)
 
 # Assembly Guide
-- Insart the **45mm hex head M5 screw** FIRST when prtting in the machanical components with the "P_Belt_Tensioner"
-- All the Brakets that attaches to the 3030 aluminum extrusions will use **15mm button head M6 screws** to attach
-- All the Brakets that attaches to the 1515 aluminum extrusions will use **8mm socket head M3 screws** to attach
-- A rubber, wooden, or plasic mallet/hammer could be necessary to tap in the press fit components
+- Insert the **45mm hex head M5 screw** FIRST in the "P_Belt_Tensioner" during assembly.
+- All the Brackets that attach to the 3030 aluminum extrusions will use **15mm button head M6 screws** to attach
+- All the Brackets that attach to the 1515 aluminum extrusions will use **8mm socket head M3 screws** to attach
+- A rubber, wooden, or plastic mallet/hammer could be necessary to tap in the press-fit components
 
-## Recommended Tools: Qualtiy will matter to an extent
-- 2.5mm ball-end hex screw dirver
-- 4 hex allen wrench with ball-end
-- 5 and 6 mm hex allen wrench
+## Recommended Tools: Quality will matter to an extent
+- 2.5mm ball-end hex screwdriver
+- 4 hex Allen wrench with ball-end
+- 5 and 6 mm hex Allen wrench
 - Nipper
 - Rubber mallet
 - Ferrule Crimpers
 - Engineer PA-09
 - Engineer PA-05
 - PTFE based synthetic grease
+
+---
+# Cradits and Inspration
+## Main Design Architacture inspration:
+- [Hypercube Evolution](https://www.thingiverse.com/thing:2254103)
+- [RailCore II](https://railcore.org)
+- [Voron 1](https://vorondesign.com/voron1.8)
+- [BLV mgn Cube](https://www.blvprojects.com/blv-mgn-cube-3d-printer)
+## Elements of 3D Printed Parts Design:
+- [Prusa i3 Bear Upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade)
+## This design uses:
+- E3D V6
+- BL touch v3
+- Orbiter v1.5
+## Thank You
+- All the members of the Penteract Discord server for supporting the project
+- Members in "[Hypercube Evolution Pro modified](https://www.facebook.com/groups/hevopro)" Facebook group where this project started
+- Members of the "Annex-Engineering" Discord server

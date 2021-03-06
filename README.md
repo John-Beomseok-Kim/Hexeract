@@ -35,15 +35,12 @@ The design is a motion platform, components like; motherboard, LED lights, HEPA 
 - **Top & Bottom Layer (Count / Thickness):** 8 Layers / 1.6mm
 
 ---
-# Notes on Modificaiton
-- fads
-
-## Penteract Calculator (In Working Progress)
+# Penteract Calculator (In Working Progress)
 If one wants to have a different print volume
 - Recommended X-axis "Print Volume" : 250mm ≤ (x-axis "Print Volume") ≤ 450mm
 - Significant modification will be necessary to the Z-axis if one wants to go with a larger print volume than standard.
 
-### How to use the calculator (In Working Progress):
+## How to use the calculator (In Working Progress):
 [![](http://img.youtube.com/vi/7c40CwL1CL%M%/0.jpg)](http://www.youtube.com/watch?v=7c40CwL1CL%M% "How to Use the Calculator")
 
 ---

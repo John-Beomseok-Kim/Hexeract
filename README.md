@@ -1,5 +1,6 @@
 # Penteract
 Open-source Core-XY motion platform mainly for "large" print volume desktop 3D printer
+![Penteract](https://user)
 
 ---
 # Introduction
@@ -103,7 +104,7 @@ Extruder | Orbiter v1.5 | --- | 1
 [Smooth Idler (Highly spsific, using this link is hightly recommended)](https://e3d-online.com/products/gates-powergrip®-2gt-idlers?_pos=1&_sid=273afe3ac&_ss=r) | GT2® / OD: 12mm / for 6mm Belt / 5mm | --- | 4
 [Toothed Idler (Highly spsific, using this link is hightly recommended)](https://e3d-online.com/products/gates-powergrip®-2gt-idlers?_pos=1&_sid=273afe3ac&_ss=r) | GT2® / 20T / for 6mm Belt / 5mm | --- | 6
 Drive Pulley | GT2® / 20T / for 6mm Belt / 5mm | --- | 6
-Timming Belt | GT2® / Width: 6mm Belt / --- | Length: (in Calculator) | 2
+Timming Belt | GT2® / Width: 6mm Belt / Length: (in Calculator) | --- | 2
 Liner Rail | MGN12H / Lengths: (in Calculator or CAD) | --- | 3
 Liner Rod | Diameter: 12mm / Heat treated steel / crome coated | PSFU12(Recommendation) | 2
 Liner Bearing | LM12LUU | SLMUW12(Recommendation) | 2

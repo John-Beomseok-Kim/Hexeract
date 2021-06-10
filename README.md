@@ -6,7 +6,7 @@ Open-source Core-XY motion platform mainly for "large" print volume desktop 3D p
 # Introduction
 The Hexeract is an open-source Core-XY motion platform with a rigid main chassis using 3030 aluminum extrusions and moving components constructed by 1515 aluminum extrusions.
 
-The design is a motion platform, components like; motherboard, LED lights, HEPA filters, and more are for the individual builder to determine. Also, the "Penteract calculator" will output the length of components to accommodate various size requirements.
+The design is a motion platform, components like; motherboard, LED lights, HEPA filters, and more are for the individual builder to determine. Also, the "Hexeract calculator" will output the length of components to accommodate various size requirements.
 
 ---
 # DISCLAIMER: Not for the faint of heart
@@ -36,7 +36,7 @@ The design is a motion platform, components like; motherboard, LED lights, HEPA 
 - **Top & Bottom Layer (Count / Thickness):** 8 Layers / 1.6mm
 
 ---
-# Penteract Calculator (In Working Progress)
+# Hexeract Calculator (In Working Progress)
 If one wants to have a different print volume
 - Recommended X-axis "Print Volume" : 250mm ≤ (x-axis "Print Volume") ≤ 450mm
 - Significant modification will be necessary to the Z-axis if one wants to go with a larger print volume than standard.

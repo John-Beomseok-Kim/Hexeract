@@ -4,7 +4,7 @@ Open-source Core-XY motion platform mainly for "large" print volume desktop 3D p
 
 ---
 # Introduction
-The Penteract is an open-source Core-XY motion platform with a rigid main chassis using 3030 aluminum extrusions and moving components constructed by 1515 aluminum extrusions.
+The Hexeract is an open-source Core-XY motion platform with a rigid main chassis using 3030 aluminum extrusions and moving components constructed by 1515 aluminum extrusions.
 
 The design is a motion platform, components like; motherboard, LED lights, HEPA filters, and more are for the individual builder to determine. Also, the "Penteract calculator" will output the length of components to accommodate various size requirements.
 
